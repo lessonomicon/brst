@@ -1,6 +1,6 @@
-# Leading Research Software Projects
+# Building Research Software Together
 
-<p class="subtitle">An Introduction for the Nervous and Weary</p>
+<p class="subtitle">An Introduction for the Weary and Uncertain</p>
 
 <div class="row" markdown="1">
   <div class="col-4 center">
